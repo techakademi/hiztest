@@ -28,7 +28,7 @@ Testing upload speed.......................................................
 Upload: 18.15 Mbit/s
 ```
 
-Uygulamanın sahip olduğu opsiyonlar:
+### Uygulamanın sahip olduğu opsiyonlar:
 
 ```
 optional arguments:
