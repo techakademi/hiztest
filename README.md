@@ -1,8 +1,7 @@
 ## Hız testi gerçekleştirmek için hazırlanmış basit konteyner uygulaması
 
 ___
-Proje linki:
-https://github.com/sivel/speedtest-cli
+## Proje linki: https://github.com/sivel/speedtest-cli
 ___
 
 Docker konteyner olarak kullanımı:
