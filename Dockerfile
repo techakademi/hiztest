@@ -2,4 +2,6 @@ FROM alpine
 
 RUN apk add --no-cache speedtest-cli
 
-CMD speedtest-cli
+ENTRYPOINT [ "speedtest-cli" ]
+
+CMD ["--help"]
