@@ -28,6 +28,28 @@ Testing upload speed.......................................................
 Upload: 18.15 Mbit/s
 ```
 
+### Kubernetes pod olarak kullanımı:
+
+```
+kubectl run hiz-testi -i --image=techakademi/hiztest:1 --restart=Never -- --simple
+```
+
+---
+
+**Not**
+Bu komu ile tekil bir pod oluşturup, ön planda çalıştırmaktadır.
+İnternet hızınıza göre ekrana çıktı dönmesi bir-iki dakikayı alabilir.
+
+---
+
+Hız testi tamamlandığında ekranda aşağıda ki gibi çıktı görünecektir.
+
+```
+If you don't see a command prompt, try pressing enter.
+Ping: 27.661 ms
+Download: 7.20 Mbit/s
+Upload: 7.54 Mbit/s
+```
 ### Uygulamanın sahip olduğu opsiyonlar:
 
 ```
