@@ -50,7 +50,7 @@ Ping: 27.661 ms
 Download: 7.20 Mbit/s
 Upload: 7.54 Mbit/s
 ```
-### Uygulamanın sahip olduğu opsiyonlar:
+### Uygulamanın sahip olduğu tüm opsiyonlar:
 
 ```
 optional arguments:
